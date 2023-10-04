@@ -1,0 +1,76 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing page</title>
+    <link rel="stylesheet" type="text/css" href="car.css">
+</head>
+<body>
+    <div class="first">
+        <img src="maxcar2.jpg" alt="" >
+        <div><p class="ftext">CarMax</p></div>
+        <div class="fsub">
+               
+            <ul class="width">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">CarsInfo</a></li>
+                <li><a href="#">Help </a></li>			
+                <li><a href="#">Contact us</a></li>
+            </ul>  
+        </div>
+    </div>
+    <div class="matter1img">
+    <div class="matter1">
+    <p>CarMax, Inc. is a retailer of used vehicles. The Company's segments
+        include CarMax Sales Operations and CarMax Auto Financee (CAF). Its CarMax Sales
+        Operations segment consists of all aspects of its auto merchandising and serv.Our 
+        purpose is to drive integrity by being honest & transparent in every interaction.
+        <br><br>
+        Objective 1: Retain Current Customers
+
+Reach is an important social metric for all business objectives. However,
+it’s far easier to sell to existing customers than it is to strangers.
+
+Objective 2: Engage New Potential Customers
+
+Increase in likes, followers. Is there a specific plan to increase your audience?
+Which platform, by how much and by when?
+Content. What types of content are getting most engagement?
+</p>
+</div>
+<img src="maxcar4.jpg" alt=" ">
+    
+    </div>
+</div>
+<div class="matter2img">
+
+    <div class=img2>
+        <img src="maxcar6.jpg" alt="" class="sizeimg" >  
+    </div>
+    <div class=matter2>
+        <pre>
+    CarMax provides access to an inventory of more than 40,000 vehicles online,
+along with a 30-day money-back guarantee. Want financing flexibility.
+Customers can finance through CarMax Auto Finance, CarMax financing partners
+or their own lender, enabling them to shop rates and find the best offer.
+
+Key facts
+
+No-haggle pricing. Prices are non-negotiable.
+
+Delivers vehicles at no cost in certain areas.
+
+30-day return option.
+
+Large national inventory with shipping options.
+
+Does not accept credit cards for down payments.
+</pre>
+    </div>
+
+</div>
+
+
+</body>
+</html>
